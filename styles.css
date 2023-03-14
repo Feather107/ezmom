@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("https://use.typekit.net/kcp6dya.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url("https://use.typekit.net/kcp6dya.css");
+
+.landingpagetitle {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
